@@ -1,0 +1,5 @@
+pytesseract>=0.3.7
+opencv-python>=4.4.0.46
+numpy>=1.18.4
+editdistance>=0.5.3
+Levenshtein
